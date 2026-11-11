@@ -1,0 +1,14 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "San Andreas DB",
+      "Group": "Servers",
+      "Host": "postgres",
+      "Port": 5432,
+      "MaintenanceDB": "sanandreas",
+      "Username": "admin",
+      "SSLMode": "prefer",
+      "PassFile": "/pgpassfile"
+    }
+  }
+}
